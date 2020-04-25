@@ -4,6 +4,3 @@ new line added in git hub file
 to see what change is done
 the line delete is display in local file
 to check what happen
-file add by merge mtd
-
-hfdgfyb
